@@ -1,0 +1,1 @@
+﻿The 2024 EOC practices involved using EMU8086 version 4.08.
